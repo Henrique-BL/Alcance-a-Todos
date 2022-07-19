@@ -2,7 +2,7 @@
 Montagem simulada da rede de computadores da startup fictícia Alcance a Todos. A empresa se encontrava em processo de planejamento da sua ampliacação, para isso foi necessário realizar a simulação utilizando o Cisco Packet Tracer de toda a estrutura da futura rede formada por 8 setores.
 
 Principais estudos:
-  - Internet Protocol
+  - Mapeamento entre redes
   - IPV4
   - DHCP
   - HTTP
